@@ -1,0 +1,16 @@
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.csproj.AssemblyReference.cache
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.AssemblyInfoInputs.cache
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.AssemblyInfo.cs
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.csproj.CoreCompileInputs.cache
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.exe
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.deps.json
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.runtimeconfig.json
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.runtimeconfig.dev.json
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.dll
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\bin\Debug\net5.0\Tic Tac Toe 2.pdb
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.dll
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\refint\Tic Tac Toe 2.dll
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.pdb
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\Tic Tac Toe 2.genruntimeconfig.cache
+C:\C#\Udemy Kurs\Arrays\Tic Tac Toe 2\obj\Debug\net5.0\ref\Tic Tac Toe 2.dll
