@@ -1,0 +1,10 @@
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\bin\Debug\Kodlu odev.exe.config
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\bin\Debug\Kodlu odev.exe
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\bin\Debug\Kodlu odev.pdb
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu odev.csproj.AssemblyReference.cache
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu_odev.Form1.resources
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu_odev.Properties.Resources.resources
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu odev.csproj.GenerateResource.cache
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu odev.csproj.CoreCompileInputs.cache
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu odev.exe
+C:\Okul\NDP Ödevler\Ödev2 deneme\Kodlu odev\obj\Debug\Kodlu odev.pdb
