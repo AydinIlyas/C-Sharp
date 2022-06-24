@@ -1,0 +1,12 @@
+a|a|a@gmail.com|054324123|sdfafsafas|1|fawar|12,99|Erkek|1|12,99|07.05.2022|20:38:54
+a|aa|a@gmail.com|440498|kjr4fkhr4|1|fawar|12,99|Erkek|4|51,96|10.05.2022|17:15:42
+a|aa|a@gmail.com|440498|Afrika|3|123|13,99|Cocuk|15|209,85|10.05.2022|17:16:06
+asdasd|asd|a@gmail.com|131|adas|2|Teneke|32,50|Bayan|4|130|13.05.2022|12:17:36
+bb|b|b@gmail.com|12|add|4|don|145|Erkek|3|435|13.05.2022|12:22:30
+sadf|asfd|ag@gmail.com|213|faafsd|3|123|12,99|Cocuk|1|12,99|16.05.2022|22:34:53
+sadf|asfd|ag@gmail.com|213|faafsd|4|don|145|Erkek|1|145|16.05.2022|22:34:58
+bb|b|b@gmail.com|12|add|2|Teneke|32,50|Bayan|1|32,5|16.05.2022|23:24:59
+bb|b|b@gmail.com|12|add|3|123|12,99|Cocuk|1|12,99|16.05.2022|23:25:32
+sadf|asfd|ag@gmail.com|213|faafsd|3|123|12,99|Cocuk|1|12,99|17.05.2022|21:46:01
+sadf|asfd|ag@gmail.com|213|kmn|3|123|12,99|Cocuk|1|12,99|17.05.2022|21:47:02
+fdsg|dsg|ger@gmail.com|6547|Samsun|6|Pantolon|100,99|Erkek|3|302,97|17.05.2022|23:03:42

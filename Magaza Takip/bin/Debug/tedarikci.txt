@@ -1,0 +1,5 @@
+o|o|o@gmail.com|12|3|123|Cocuk|13,99
+a|aa|abc@gmail.com|112|5|sfa|Bayan|213
+f|f|f@gmail.com|123|5|asfd|Cocuk|123
+k|k|k@gmail.com|234|5|asf|Erkek|23
+Kenan|Kenan|kenan@gmail.com|3123|6|Pantolon|Erkek|100,99

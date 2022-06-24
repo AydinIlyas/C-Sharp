@@ -1,0 +1,6 @@
+1|fawar|12|Erkek|10|0
+2|Teneke|32,50|Bayan|1|8
+3|123|12,99|Cocuk|24|1
+4|don|145|Erkek|15|31
+5|sfa|200,99|Bayan|6|0
+6|Pantolon|100,99|Erkek|20|7

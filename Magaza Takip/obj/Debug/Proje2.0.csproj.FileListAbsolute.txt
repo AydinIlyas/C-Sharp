@@ -1,0 +1,17 @@
+C:\Okul\NDP Ödevler\Proje\Proje2.0\bin\Debug\Proje2.0.exe.config
+C:\Okul\NDP Ödevler\Proje\Proje2.0\bin\Debug\Proje2.0.exe
+C:\Okul\NDP Ödevler\Proje\Proje2.0\bin\Debug\Proje2.0.pdb
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.csproj.AssemblyReference.cache
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.Anasayfa.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.MagazaIslemleri.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.Properties.Resources.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.csproj.GenerateResource.cache
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.csproj.CoreCompileInputs.cache
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.exe
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.pdb
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.MusteriListesi.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.StokList.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.TedarikciListe.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.Raporlar.resources
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2.0.csproj.SuggestedBindingRedirects.cache
+C:\Okul\NDP Ödevler\Proje\Proje2.0\obj\Debug\Proje2._0.Magaza.resources
